@@ -26,7 +26,7 @@ Download the source files from git@github.com:stritch-dev/dmsc.git
 
 ## License  
 
-This software is licensed under the MIT license, a copy of which is located in the LICENSE file.
+This software is licensed under the MIT license, a copy of which is located in the LICENSE file and at https://opensource.org/licenses/MIT
 
 ## Contributors
 
